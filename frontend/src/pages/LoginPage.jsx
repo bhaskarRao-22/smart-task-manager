@@ -131,6 +131,9 @@ const LoginPage = () => {
                             Create one
                         </Link>
                     </p>
+                    <p className="text-center text-[11px] text-gray-500 mt-2">
+                        Admin Credentials: <code className="bg-gray-100 px-1 rounded">email: admin@example.com</code> | <code className="bg-gray-100 px-1 rounded">password: admin123</code>
+                    </p>
                 </div>
 
                 {/* Demo credentials */}
